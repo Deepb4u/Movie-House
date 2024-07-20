@@ -30,7 +30,7 @@ const App = () => {
     return (
         <>
         <div className="app">
-            <h1>MovieLand</h1>
+            <h1>MovieHouse</h1>
             <div className="search">
                 <input placeholder="Search for Movies" 
                 value= {searchTerm}
@@ -40,7 +40,7 @@ const App = () => {
                 alt="search"
                 onClick={() => searchMovies(searchTerm)}/>
             </div>
-
+            
             {
                 movies?.length > 0 
                 ? (
@@ -55,11 +55,9 @@ const App = () => {
                     </div>
                 )
             };
-
         </div>
         </>
     )
 }
-
 
 export default App;
