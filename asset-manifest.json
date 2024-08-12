@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Movie-House/static/css/main.3292250f.css",
+    "main.js": "/Movie-House/static/js/main.01ab5b5a.js",
+    "index.html": "/Movie-House/index.html",
+    "static/media/search.svg": "/Movie-House/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.3292250f.css.map": "/Movie-House/static/css/main.3292250f.css.map",
+    "main.01ab5b5a.js.map": "/Movie-House/static/js/main.01ab5b5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3292250f.css",
+    "static/js/main.01ab5b5a.js"
+  ]
+}
